@@ -273,3 +273,10 @@ overflow: auto;
 .new-navbtn .fdd{
     display:inline-block;
 }
+@media screen {
+    .new-nav{
+        width: 100%;
+        height: 10%;
+        overflow-x: auto;
+    }
+}
