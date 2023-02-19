@@ -275,12 +275,12 @@ height:30%;
 @media screen {
     .new-nav{
         width: 100%;
-        height: auto;
+        height:fit-content;
         overflow:auto;
         white-space: nowrap;
     }
     .new-navbtn{
-        font-size: large;
+        font-size: larger;
         margin-left: 3px;
     }
 }
