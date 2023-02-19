@@ -278,9 +278,10 @@ overflow: auto;
         width: 100%;
         height: 70px;
         overflow: auto;
+        margin-bottom: 3px;
     }
     .new-navbtn{
-        font-size: small;
+        font-size: medium;
         margin-left: 3px;
     }
 }
