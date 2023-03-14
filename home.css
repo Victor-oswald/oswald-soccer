@@ -302,3 +302,9 @@ width:60%;
         text-align:justify;
 
     }
+    .qlinks{
+        border:none;
+        background-color: inherit;
+        font-size:small;
+        color: grey;
+    }
